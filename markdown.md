@@ -25,12 +25,12 @@ Experiencia multiplataforma
 Un enlace a otro fichero Markdown que tengas en el repositorio.
 
 
-Una imagen
 
-![No se una imagen](cosa.jpg)
-Una tabla
 
- | Syntax | Description |
+![No se una imagen](cangrejo-barras.gif)
+
+
+ | Um | Siri |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Fazendo | Barra |
+| Vamos | seu SIRI |
