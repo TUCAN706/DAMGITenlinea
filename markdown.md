@@ -2,8 +2,6 @@
 
 ## Es un MMORPG
 
-Un párrafo, con palabras en negrita, en cursiva, en código (por ejemplo esto está escrito en código).
-
 Albion Online es un **MMORPG** no lineal donde *los jugadores crean su propia historia* sin un camino prefijado, 
 destacando la libertad para `recolectar, fabricar, comerciar, explorar un mundo abierto`, participar en PvP y construir 
 su economía, todo en una experiencia multiplataforma PC/móvil. 
