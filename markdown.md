@@ -22,8 +22,8 @@ Experiencia multiplataforma
 
 [ALBION ONLINE](https://albiononline.com/home)
 
-Un enlace a otro fichero Markdown que tengas en el repositorio.
 
+[ASUNTOS IMPORTANTES](marcos.md)
 
 
 
