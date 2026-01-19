@@ -30,7 +30,7 @@ Experiencia multiplataforma
 ![No se una imagen](cangrejo-barras.gif)
 
 
- | Um | Siri |
+| Um | Siri |
 | ----------- | ----------- |
 | Fazendo | Barra |
 | Vamos | seu SIRI |
